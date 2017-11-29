@@ -1,0 +1,1 @@
+this ScreenCaptureForCB is ScreenCapture build in C++ Builder 2010.
